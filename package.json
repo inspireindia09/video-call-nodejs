@@ -1,0 +1,22 @@
+{
+  "name": "video_chat_app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "firebase": "^8.5.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "^4.0.2",
+    "socket.io": "^2.4.1",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.3",
+    "path": "^0.12.7",
+    "redis": "^3.0.2",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
